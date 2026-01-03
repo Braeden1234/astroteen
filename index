@@ -1,0 +1,483 @@
+<html>
+<nav id="navbar">
+  <div class="container">
+    <ul>
+      <li class="nav-items"><a href="https://sites.google.com/view/astroteenmagazine/home-page" id="home" class="active">Home</a></li>
+      <li class="nav-items"><a href="https://sites.google.com/view/astroteenmagazine/home-page/staff">Staff</a></li>
+      <li class="nav-items"><a href="https://sites.google.com/view/astroteenmagazine/home-page/publications">Publications</a></li>
+      <li class="nav-items"><a href="https://sites.google.com/view/astroteenmagazine/home-page/apply">Apply</a></li>
+      <li class="nav-items"><a href="https://sites.google.com/view/astroteenmagazine/home-page/contact">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+<div class="center">
+  <div class="container7">
+    <img class="image" src="https://docs.google.com/drawings/d/e/2PACX-1vRzc8Fylxp7x27xVf5rNb2067HSw5OUquYq_THB-XfdWAysKb4EizZnjFTBtKIZcQq1e43xaq3ks2tx/pub?w=1440&h=1080" alt="Your image">
+    <div class="squareoverlay">
+      <div class="header_text">
+        <a class="climate-crisis">ASTRO TEEN <br> MAGAZINE</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container2">
+  <div class="row">
+    <img class="photo" src="https://docs.google.com/drawings/d/e/2PACX-1vQWjpp1C7g4tGBqrOQB4DnYpP_F8VINnmoiD0wO3sM1KovPNPtxTTjntjNxe0-eVLfU0_mlj2WXgXlU/pub?w=1728&h=1296" alt="Rouge Letters Magazine">
+    <div class="text-block">
+      <h2 class="section-title">MISSION</h2>
+      <p class="section-text">
+        Our mission is to simplify scientific concepts about astronomy and astrophysics, share the latest space news and create engaging and fun content to give teens who love space the opportunity to learn, enjoy science and give them a chance to practice what they are passionate about.
+      </p>
+    </div>
+  </div>
+</div>
+<div class="container2">
+  <div class="row reverse">
+    <img class="photo" src="https://docs.google.com/drawings/d/e/2PACX-1vQ23RatiuH1CsRAxgh64SirgQxt2NtQ7sR8boJyrd3ZTi3ip-OD-zTd22S3ijWk_xMS9lCGw1IKL6M6/pub?w=960&h=720" alt="Rouge Letters Magazine">
+    <div class="text-block2">
+      <h2 class="section-title">Who Are We?</h2>
+      <p class="section-text">
+        Astroteen magazine is an international virtual magazine launched in March 2025. We are a youth-led magazine focused on everything related to space and space technology — made by teens, for teens. It's a safe place for teens who are passionate about space to grow their love, learn more, and connect with peers who share the same passion.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="container2">
+  <div class="row">
+    <img class="photo" src="https://docs.google.com/drawings/d/e/2PACX-1vTdwrDfbjzBgymjvMKcmR2mdYdrwAkjzzP6TLbs82qIts8sFaAR16NMzxDa-P-SfKQTYv3ohPOMAJDh/pub?w=1728&h=1296" alt="Rouge Letters Magazine">
+    <div class="text-block">
+      <h2 class="section-title">MESSAGE FROM OUR FOUNDER</h2>
+      <p class="section-text">
+        What inspired me to start this magazine is that while many teens like me are very passionate about space science and astronomy not all of them have the access to dive deeper in this field due to the lack of resources and opportunities so I decided to build a space for teenagers to learn more, foster their skills and have the chance to reach their goals.
+      </p>
+    </div>
+  </div>
+</div>
+<div class="container8">
+  <div class="text5">
+    <a class="anta-regular">Recent Publications</a>
+  </div>
+</div>
+<div class="slider">
+  <div class="slide-track">
+    <div class="slide"><a href="https://sites.google.com/view/astroteenmagazine/home-page/publications/4">
+        <img src="https://docs.google.com/drawings/d/e/2PACX-1vRl6MY0ZTdP0u2MqS6gUCE99ZRfCJAa38xLuVWzrqBjlq1MouQJD1i67zAeL62jXlNP1hEWMWpUTcQg/pub?w=1149&h=1591" alt="Image 1"></a></div>
+    <div class="slide"> <a href="https://sites.google.com/view/astroteenmagazine/home-page/publications/2"><img src="https://docs.google.com/drawings/d/e/2PACX-1vT3rLQRnlq6_asoDc4AUrZ1-UsWMMuq-xvejJK6QUhYeMUv6kmWxmhK7h_rN5y8Q6nxJqEfOe_HQFz0/pub?w=1149&h=2585" alt="Image 2"></a></div>
+       <div class="slide"><a href="https://sites.google.com/view/astroteenmagazine/home-page/publications/4">
+        <img src="https://docs.google.com/drawings/d/e/2PACX-1vRl6MY0ZTdP0u2MqS6gUCE99ZRfCJAa38xLuVWzrqBjlq1MouQJD1i67zAeL62jXlNP1hEWMWpUTcQg/pub?w=1149&h=1591" alt="Image 1"></a></div>
+    
+    <div class="slide"> <a href="https://sites.google.com/view/astroteenmagazine/home-page/publications/2"><img src="https://docs.google.com/drawings/d/e/2PACX-1vT3rLQRnlq6_asoDc4AUrZ1-UsWMMuq-xvejJK6QUhYeMUv6kmWxmhK7h_rN5y8Q6nxJqEfOe_HQFz0/pub?w=1149&h=2585" alt="Image 2"></a></div>
+    
+      <div class="slide"><a href="https://sites.google.com/view/astroteenmagazine/home-page/publications/4">
+        <img src="https://docs.google.com/drawings/d/e/2PACX-1vRl6MY0ZTdP0u2MqS6gUCE99ZRfCJAa38xLuVWzrqBjlq1MouQJD1i67zAeL62jXlNP1hEWMWpUTcQg/pub?w=1149&h=1591" alt="Image 1"></a></div>
+    <div class="slide"> <a href="https://sites.google.com/view/astroteenmagazine/home-page/publications/2"><img src="https://docs.google.com/drawings/d/e/2PACX-1vT3rLQRnlq6_asoDc4AUrZ1-UsWMMuq-xvejJK6QUhYeMUv6kmWxmhK7h_rN5y8Q6nxJqEfOe_HQFz0/pub?w=1149&h=2585" alt="Image 2"></a></div>
+        <div class="slide"><a href="https://sites.google.com/view/astroteenmagazine/home-page/publications/4">
+        <img src="https://docs.google.com/drawings/d/e/2PACX-1vRl6MY0ZTdP0u2MqS6gUCE99ZRfCJAa38xLuVWzrqBjlq1MouQJD1i67zAeL62jXlNP1hEWMWpUTcQg/pub?w=1149&h=1591" alt="Image 1"></a></div>
+    <div class="slide"> <a href="https://sites.google.com/view/astroteenmagazine/home-page/publications/2"><img src="https://docs.google.com/drawings/d/e/2PACX-1vT3rLQRnlq6_asoDc4AUrZ1-UsWMMuq-xvejJK6QUhYeMUv6kmWxmhK7h_rN5y8Q6nxJqEfOe_HQFz0/pub?w=1149&h=2585" alt="Image 2"></a></div>
+    <div class="slide">
+      <a href="https://sites.google.com/view/astroteenmagazine/home-page"><img src="https://docs.google.com/drawings/d/e/2PACX-1vTzDKrUN9coHp5q3I1SyRuXLKRMH1YAW-XLBIPezrIa0f1tbm4PiB7AYc9lijIIzx7bm0C3cCNQZ8qS/pub?w=1224&h=1584" alt="Image 4"></a>
+    </div>
+    <div class="slide"><a href="https://sites.google.com/view/astroteenmagazine/home-page"><img src="https://docs.google.com/drawings/d/e/2PACX-1vQOgnNOpDm_763SS6qhljUbp7NFPr7TaDWwBcmTdgZQCako-8Jdgl-p_7chWam88Ik572d3ViQBmb_e/pub?w=1224&h=1584" alt="Image 5"></a></div>
+  </div>
+</div>
+<footer class="footer">
+  <div id="main-content">
+    <div class="footer-container">
+      <div class="footer-left">
+        <h2 class="footer-title">Subscribe to Our Newsletter</h2>
+        <p class="footer-text">Get the latest issues, updates, and space stories straight to your inbox.</p>
+        <form id="myAppForm" class="subscription-form" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSd6AN7VBOnW8uzXFUBabpRvp42n3ALr_EWJsuKW8qnfcF7S9w/formResponse" method="POST" target="_self">
+          <input id="Email" name="entry.403638997" type="email" placeholder="Enter your email" required>
+          <button type="submit">Subscribe</button>
+        </form>
+      </div>
+      <div class="footer-right">
+        <p class="footer-links">© 2025 Astro Teen Magazine</p>
+        <p class="footer-links">
+          <a href="https://sites.google.com/view/astroteenmagazine/home-page">Home</a> |
+          <a href="https://sites.google.com/view/astroteenmagazine/home-page/staff">Staff</a> |
+          <a href="https://sites.google.com/view/astroteenmagazine/home-page/publications">Publications</a> |
+          <a href="https://sites.google.com/view/astroteenmagazine/home-page/apply">Apply</a> |
+          <a href="https://sites.google.com/view/astroteenmagazine/home-page/contact">Contact</a>
+        </p>
+      </div>
+    </div>
+</footer>
+</div>
+
+<link href="https://fonts.googleapis.com/css2?family=Anta&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Anta&family=Climate+Crisis&display=swap" rel="stylesheet">
+<style>
+.container7 {
+  position: relative;
+  width: 100vw;
+  height: 40vw;
+  overflow: hidden;
+  background-color: lightgray;
+}
+.squareoverlay {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(11, 11, 31, 1));
+  height: 40vw;
+  width: 100vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.image {
+  width: 100vw;
+  height: 40vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+  background: #0b0b1f;
+  overflow-x: hidden;
+}
+.container {
+  margin: auto;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+#navbar ul {
+  display: flex;
+  flex-direction: row;
+}
+#navbar ul li {
+  align-self: top;
+}
+#navbar {
+  background: #1c1a3f;
+  position: sticky;
+  top: 0;
+  height: 5vw;
+  z-index: 1000;
+}
+#navbar .container {
+  margin-top: 0;
+  padding-bottom: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-top: 0;
+}
+#navbar .container ul {
+  display: flex;
+  padding: 0;
+  flex-direction: row;
+  white-space: nowrap;
+  margin: 0;
+}
+#navbar .container ul li {
+  list-style: none;
+  display: flex;
+}
+#navbar .container ul li a {
+  text-decoration: none;
+  color: #ded2e6;
+  margin-top: 0;
+  font-family: "Anta", sans-serif;
+}
+#navbar .container ul li a:hover {
+  color: rgba(242, 248, 244, 0.1);
+  font-weight: bold;
+  -webkit-text-stroke: 0.01vw #f4f4ff;
+  background-color: #a78bfa;
+  margin-top: 0;
+  height: 2.5vw;
+}
+.active {
+  color: #f4f4ff !important;
+  font-weight: bold !important;
+  background-color: #a78bfa !important;
+  height: 2.5vw !important;
+  -webkit-text-stroke: 0px !important;
+  border-bottom: 0.55vw solid #f4f4ff !important;
+}
+#navbar ul li a {
+  font-size: 2.5vw;
+  padding: 1vw 1vw !important;
+  display: flex;
+  flex-direction: row !important;
+}
+
+.container2 {
+  margin-top: 5vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
+    margin-bottom: 25vw;
+}
+
+.text1 {
+  font-size: 3vw;
+  color: #a78bfa;
+  font-weight: 1000;
+}
+.text2 {
+  font-size: 2vw;
+  color: #f4f4ff;
+  -webkit-text-stroke: 0.07vw #f4f4ff !important;
+}
+
+
+.text5 {
+  font-size: 5vw;
+  color: #a78bfa;
+  font-weight: 1000;
+  text-align: center;
+  font-family: "Anta", sans-serif;
+}
+
+.slider {
+  width: 90vw;
+  overflow: hidden;
+  position: relative;
+  border-radius: 2vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+.slide-track:hover {
+  animation-play-state: paused;
+}
+
+.slide-track {
+  display: flex;
+  width: 300vw;
+  animation: scroll 33s linear infinite;
+}
+.slide {
+  width: 30vw;
+  flex-shrink: 0;
+  padding: 2vw;
+}
+.slide img {
+  width: 100%;
+  border-radius: 2vw;
+  object-fit: cover;
+}
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-56.7%);
+  }
+}
+.anta-regular {
+  font-family: "Anta", sans-serif;
+}
+
+
+.photo2 {
+  width: 48vw;
+  height: 48vw;
+}
+.container9 {
+  margin-left: 65vw;
+  margin-top: -19vw;
+    margin-bottom: 15vw;
+
+}
+
+.header_text {
+  color: #f4f4ff;
+  margin-top: 8vw;
+  font-size: 8vw;
+  -webkit-text-stroke: 0.5vw #a78bfa;
+  text-align: center;
+
+}
+.climate-crisis {
+  font-family: "Climate Crisis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings: "YEAR" 1979;
+}
+
+
+.container2 {
+  margin: 5vw;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 3vw;
+  flex-wrap: nowrap; /* prevents stacking */
+}
+
+.photo {
+  width: 28vw;
+  height: 22vw;
+  border-radius: 3vw;
+  border: 0.5vw solid #a78bfa;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.text-block {
+  flex: 1;
+  min-width: 0;
+}
+.section-title {
+  font-size: 3.6vw;
+  color: #a78bfa;
+  margin: 0 0 1vw 0;
+  font-family: "Anta", sans-serif;
+
+}
+.section-text {
+  font-size: 2vw;
+  margin-top: -.5vw;
+  line-height: 2.4vw;
+  color: #f4f4ff;
+    font-family: "Anta", sans-serif;
+  
+}
+
+.text-block2 {
+  flex: ;
+  min-width: 0;
+    text-align: right;
+  
+  
+}
+
+
+    .content-section-2 {
+        display: flex; 
+        justify-content: center; 
+        align-items: center;
+    }
+
+    .content-section {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+.row.reverse{
+  flex-direction: row-reverse;
+}
+
+.footer {
+  background-color: #1c1a3f;
+  padding: 5vw 5vw 8vw 5vw;
+  color: #f4f4ff;
+  font-family: "Anta", sans-serif;
+  margin-top: 10vw;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.footer-title {
+  font-size: 4vw;
+  color: #a78bfa;
+  margin-bottom: 1vw;
+}
+
+.footer-text {
+  font-size: 2vw;
+  margin-bottom: 2vw;
+}
+
+.subscription-form {
+  display: flex;
+  flex-direction: row;
+  gap: 1vw;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.subscription-form input[type="email"] {
+  padding: 1vw;
+  border-radius: 0.8vw;
+  border: none;
+  font-size: 1.8vw;
+  width: 50vw;
+  max-width: 60vw;
+  outline: none;
+}
+
+.subscription-form button {
+  padding: 1vw 2vw;
+  border-radius: 0.8vw;
+  border: none;
+  background-color: #a78bfa;
+  color: #0b0b1f;
+  font-weight: bold;
+  font-size: 1.8vw;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.subscription-form button:hover {
+  background-color: #8b65e4;
+}
+
+.footer-links {
+  margin-top: 3vw;
+  font-size: 1.6vw;
+  color: #ded2e6;
+}
+
+.footer-links a {
+  color: #ded2e6;
+  text-decoration: none;
+  margin: 0 1vw;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+  color: #a78bfa;
+}
+
+ .safari-fix {
+      margin-bottom: 12vh;
+  background-color: #1c1a3f;
+}
+</style>
+<script>
+  document.getElementById("myAppForm").addEventListener("submit", function(e) {
+    e.preventDefault(); // stop the default form submission
+
+    const formData = new FormData();
+    formData.append("entry.403638997", document.getElementById("Email").value);
+
+    fetch("https://docs.google.com/forms/u/0/d/e/1FAIpQLSd6AN7VBOnW8uzXFUBabpRvp42n3ALr_EWJsuKW8qnfcF7S9w/formResponse", {
+      method: "POST",
+      mode: "no-cors",
+      body: formData
+    }).then(() => {
+      alert("Thank you! Your message has been sent.");
+      document.getElementById("myAppForm").reset();
+    }).catch(err => {
+      console.error("Error submitting form:", err);
+      alert("Oops! There was a problem submitting your message.");
+    });
+  });
+
+  const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+
+  if (isSafari) {
+    document.getElementById('main-content').classList.add('safari-fix');
+  }
+</script>
+</html>
