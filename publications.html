@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Astro Teen Magazine - Publications</title>
+    <link href="https://fonts.googleapis.com/css2?family=Anta&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Anta&family=Climate+Crisis&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <nav id="navbar">
+      <div class="container">
+        <ul>
+          <li class="nav-items"><a href="index.html" id="home">Home</a></li>
+          <li class="nav-items"><a href="staff.html">Staff</a></li>
+          <li class="nav-items"><a href="publications.html" class="active">Publications</a></li>
+          <li class="nav-items"><a href="apply.html">Apply</a></li>
+          <li class="nav-items"><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="center">
+      <div class="container7">
+        <img class="image" src="https://docs.google.com/drawings/d/e/2PACX-1vRzc8Fylxp7x27xVf5rNb2067HSw5OUquYq_THB-XfdWAysKb4EizZnjFTBtKIZcQq1e43xaq3ks2tx/pub?w=1440&h=1080" alt="Header Image">
+        <div class="squareoverlay">
+          <div class="header_text">
+            <a class="climate-crisis">PUBLICATIONS</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="squarebody">
+      <div class="center">
+        <p class="text2">See our latest publications on Astro Teen Magazine below!</p>
+      </div>
+      <div class="publication-grid">
+         <div class="publication-box">
+          <a href="https://online.anyflip.com/zbere/wgpe/mobile/index.html">
+            <img src="https://docs.google.com/drawings/d/e/2PACX-1vTf4odMFf8qfwrbFFbyrAx_5CEHK3g9KPqoHOaqjb7Dun5fXJ34U-2Aw1XqoNJYWhYC6Pteexaovu55/pub?w=384&h=384" alt="2023 Publication" class="pub-image">
+          </a>
+          <div class="pub-year">Magazine</div>
+        </div>
+        <div class="publication-box">
+          <a href="https://sites.google.com/view/astroteenmagazine/home-page/publications/4">
+            <img src="https://docs.google.com/drawings/d/e/2PACX-1vRl6MY0ZTdP0u2MqS6gUCE99ZRfCJAa38xLuVWzrqBjlq1MouQJD1i67zAeL62jXlNP1hEWMWpUTcQg/pub?w=816&h=1056" alt="2023 Publication" class="pub-image">
+          </a>
+          <div class="pub-year">Exoplanets</div>
+        </div>
+        <div class="publication-box">
+          <a href="https://sites.google.com/view/astroteenmagazine/home-page/publications/2" target="_blank" class="pub-link">
+            <img src="https://docs.google.com/drawings/d/e/2PACX-1vT3rLQRnlq6_asoDc4AUrZ1-UsWMMuq-xvejJK6QUhYeMUv6kmWxmhK7h_rN5y8Q6nxJqEfOe_HQFz0/pub?w=1149&h=2585" alt="Rouge Letters Magazine" class="pub-image">
+          </a>
+          <div class="pub-year">Cosmic Collisions</div>
+        </div>
+      </div>
+    </div>
+
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        background: #0b0b1f;
+        overflow-x: hidden;
+      }
+
+      #navbar {
+        background: #1c1a3f;
+        position: sticky;
+        top: 0;
+        height: 5vw;
+        z-index: 1000;
+      }
+
+      #navbar .container {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        height: 100%;
+      }
+
+      #navbar ul {
+        list-style: none;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+
+      #navbar ul li {
+        height: 100%;
+      }
+
+      #navbar ul li a {
+        font-size: 2.5vw;
+        text-decoration: none;
+        color: #ded2e6;
+        padding: 0 1.5vw;
+        display: flex;
+        align-items: center;
+        height: 100%;
+        box-sizing: border-box;
+        transition: all 0.3s ease;
+      }
+
+      #navbar ul li a:hover {
+        background-color: #a78bfa;
+        font-weight: bold;
+        color: transparent;
+        -webkit-text-stroke: 0.1vw #f4f4ff;
+      }
+
+      .active {
+        color: #f4f4ff !important;
+        font-weight: bold !important;
+        background-color: #a78bfa !important;
+        -webkit-text-stroke: 0px !important;
+        box-shadow: inset 0 -0.4vw 0 0 #f4f4ff !important;
+      }
+
+      .container7 {
+        position: relative;
+        width: 100vw;
+        height: 20vw;
+        overflow: hidden;
+        background: #0b0b1f;
+      }
+
+      .image {
+        width: 100vw;
+        height: 20vw;
+        object-fit: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+
+      .squareoverlay {
+        background: linear-gradient(rgba(0, 0, 0, 0), rgba(11, 11, 31, 1));
+        height: 20vw;
+        width: 100vw;
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+
+      .header_text {
+        color: #f4f4ff;
+        margin-top: 3.5vw;
+        font-size: 8vw;
+        -webkit-text-stroke: 0.5vw #a78bfa;
+        text-align: center;
+      }
+
+      .climate-crisis {
+        font-family: "Climate Crisis", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+      }
+
+      .squarebody {
+        width: 100vw;
+        background-color: #0b0b1f;
+        padding-bottom: 5vw;
+      }
+
+      .text2 {
+        font-size: 2vw;
+        color: #f4f4ff;
+        margin: 2vw;
+        font-family: "Anta", sans-serif;
+      }
+
+      .publication-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 3vw;
+        padding: 3vw;
+        justify-items: center;
+        margin-left: -2vw;
+      }
+
+      .publication-box {
+        background-color: #1c1a3f;
+        width: 30vw;
+        height: 30vw;
+        border-radius: 2vw;
+        position: relative;
+        box-shadow: 0 0 2vw #a78bfa;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        overflow: hidden;
+      }
+
+      .publication-box:hover {
+        transform: scale(1.05);
+        box-shadow: 0 0 3vw #c084fc;
+      }
+
+      .pub-link {
+        display: block;
+        width: 100%;
+        height: calc(100% - 4vw);
+        border-radius: 2vw 2vw 0 0;
+        position: relative;
+      }
+
+      .pub-image {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 2vw 2vw 0 0;
+      }
+
+      .pub-year {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: rgba(28, 26, 63, 0.9);
+        text-align: center;
+        font-size: 2vw;
+        color: #a78bfa;
+        font-family: "Anta", sans-serif;
+        padding: 0.5vw 0;
+        pointer-events: none;
+      }
+
+      .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    </style>
+  </body>
+</html>
