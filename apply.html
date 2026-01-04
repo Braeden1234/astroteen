@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Astro Teen Magazine Application</title>
+  <link href="https://fonts.googleapis.com/css2?family=Anta&family=Climate+Crisis&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <nav id="navbar">
+    <div class="container">
+      <ul>
+        <li class="nav-items"><a href="index.html" id="home">Home</a></li>
+        <li class="nav-items"><a href="staff.html">Staff</a></li>
+        <li class="nav-items"><a href="publications.html">Publications</a></li>
+        <li class="nav-items"><a href="apply.html" class="active">Apply</a></li>
+        <li class="nav-items"><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="center">
+    <div class="container7">
+      <img class="image" src="https://docs.google.com/drawings/d/e/2PACX-1vRzc8Fylxp7x27xVf5rNb2067HSw5OUquYq_THB-XfdWAysKb4EizZnjFTBtKIZcQq1e43xaq3ks2tx/pub?w=1440&h=1080" alt="Your image">
+      <div class="squareoverlay">
+        <div class="header_text">
+          <a class="climate-crisis">Application</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="center">
+    <div class="text8">
+      <form id="myAppForm" action="https://docs.google.com/forms/d/e/1FAIpQLSfxEX6hBpP8_rJLwvLoI7aIZWTfe91Ep53qgsuhy_hHAYIeWA/formResponse" method="POST" target="_self">
+        <div class="container11">
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="firstName">FIRST NAME</label>
+            </div>
+            <input class="input1" type="text" id="firstName" name="entry.1656028459" maxlength="50" required>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="lastName">LAST NAME</label>
+            </div>
+            <input class="input1" type="text" id="lastName" name="entry.757559261" maxlength="50" required>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular">DATE OF BIRTH</label>
+            </div>
+            <input class="input2" type="date" id="dobDay" name="entry.555197516" required>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="country">COUNTRY</label>
+            </div>
+            <input class="input1" type="text" id="country" name="entry.1471151256" maxlength="100" required>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="timeZone">TIME ZONE</label>
+            </div>
+            <input class="input1" type="text" id="timeZone" name="entry.1399458332" maxlength="100" required>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="emailAddress">EMAIL ADDRESS</label>
+            </div>
+            <input class="input1" type="email" id="emailAddress" name="entry.37914180" maxlength="100" required>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="instagramUsername">INSTAGRAM USERNAME</label>
+            </div>
+            <input class="input1" type="text" id="instagramUsername" name="entry.1296045255" maxlength="100" required>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="schoolName">NAME OF SCHOOL</label>
+            </div>
+            <input class="input1" type="text" id="schoolName" name="entry.339742573" maxlength="100" required>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="hoursPerWeek">HOURS PER WEEK</label>
+            </div>
+            <input class="input2" type="number" id="hoursPerWeek" name="entry.409934298" required>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular">WHAT POSITIONS ARE YOU INTERESTED IN?</label>
+            </div>
+            <div class="checkbox-container">
+              <input type="checkbox" name="position" value="Writer" class="custom-checkbox">
+              <label class="anta-regular">Writer</label>
+            </div>
+            <div class="checkbox-container">
+              <input type="checkbox" name="position" value="Graphic Designer" class="custom-checkbox">
+              <label class="anta-regular">Graphic Designer</label>
+            </div>
+            <div class="checkbox-container">
+              <input type="checkbox" name="position" value="Video Editor" class="custom-checkbox">
+              <label class="anta-regular">Video Editor</label>
+            </div>
+            <div class="checkbox-container">
+              <input type="checkbox" name="position" value="Social Media Manager" class="custom-checkbox">
+              <label class="anta-regular">Social Media Manager</label>
+            </div>
+            <div class="checkbox-container">
+              <input type="checkbox" name="position" value="Outreach Coordinator" class="custom-checkbox">
+              <label class="anta-regular">Outreach Coordinator</label>
+            </div>
+            <div class="checkbox-container">
+              <input type="checkbox" name="position" value="Information Technology" class="custom-checkbox">
+              <label class="anta-regular">Information Technology</label>
+            </div>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="whyJoin">WHY DO YOU WANT TO JOIN?</label>
+            </div>
+            <textarea class="top-left-textarea" rows="5" id="whyJoin" name="entry.2089907337" required></textarea>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="experience">EXPERIENCE</label>
+            </div>
+            <textarea class="top-left-textarea" rows="5" id="experience" name="entry.872518315" required></textarea>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="story">YOUR STORY WITH ASTRONOMY</label>
+            </div>
+            <textarea class="top-left-textarea" rows="5" id="story" name="entry.238174721" required></textarea>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="anythingElse">ANYTHING ELSE?</label>
+            </div>
+            <textarea class="top-left-textarea" rows="5" id="anythingElse" name="entry.911900586" required></textarea>
+          </div>
+
+          <div class="container12">
+            <div class="container13">
+              <label class="anta-regular" for="howDidYouHear">HOW DID YOU HEAR ABOUT US?</label>
+            </div>
+            <input class="input1" type="text" id="howDidYouHear" name="entry.1317569400" maxlength="100" required>
+          </div>
+
+          <button type="submit" class="btn-effect-1">Submit</button>
+
+        </div>
+      </form>
+    </div>
+  </div>
+  <footer class="footer">
+    <div id="main-content">
+      <div class="footer-container">
+        <div class="footer-left">
+          <h2 class="footer-title">Subscribe to Our Newsletter</h2>
+          <p class="footer-text">Get the latest issues, updates, and space stories straight to your inbox.</p>
+          <form id="Subscribe" class="subscription-form">
+            <input id="Email" name="entry.403638997" type="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+          </form>
+        </div>
+        <div class="footer-right">
+      <p class="footer-links"><a href="https://sites.google.com/view/aspen-collation/home">ASPEN COLLATION</a></p>
+          <p class="footer-links">
+            <a href="https://sites.google.com/view/astroteenmagazine/home-page">Home</a> |
+            <a href="https://sites.google.com/view/astroteenmagazine/home-page/staff">Staff</a> |
+            <a href="https://sites.google.com/view/astroteenmagazine/home-page/publications">Publications</a> |
+            <a href="https://sites.google.com/view/astroteenmagazine/home-page/apply">Apply</a> |
+            <a href="https://sites.google.com/view/astroteenmagazine/home-page/contact">Contact</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
+<style>
+body {
+  margin: 0;
+  font-family: "Anta", sans-serif;
+  box-sizing: border-box;
+  background: #0b0b1f;
+  overflow-x: hidden;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* === NAVBAR === */
+#navbar {
+  background: #1c1a3f;
+  position: sticky;
+  top: 0;
+  height: 5vw;
+  z-index: 1000;
+}
+
+#navbar .container {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+#navbar ul {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+  white-space: nowrap;
+}
+
+#navbar ul li {
+  list-style: none;
+  display: flex;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  font-family: "Anta", sans-serif;
+  color: #ded2e6;
+  font-size: 2.5vw;
+  padding: 1vw 1vw !important;
+  display: flex;
+  flex-direction: row !important;
+}
+
+#navbar ul li a:hover {
+  color: rgba(242, 248, 244, 0.1);
+  font-weight: bold;
+  font-family: "Anta", sans-serif;
+  -webkit-text-stroke: 0.01vw #f4f4ff;
+  background-color: #a78bfa;
+  height: 2.5vw;
+}
+
+.active {
+  color: #f4f4ff !important;
+  font-weight: bold !important;
+  background-color: #a78bfa !important;
+  height: 2.5vw !important;
+  -webkit-text-stroke: 0px !important;
+  border-bottom: 0.55vw solid #f4f4ff !important;
+  font-family: "Anta", sans-serif;
+}
+
+.container7 {
+  position: relative;
+  width: 100vw;
+  height: 20vw;
+  overflow: hidden;
+  background-color: lightgray;
+}
+
+.image {
+  width: 100vw;
+  height: 20vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.squareoverlay {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(11, 11, 31, 1));
+  height: 20vw;
+  width: 100vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.header_text {
+  color: #f4f4ff;
+  margin-top: 3vw;
+  font-size: 8vw;
+  -webkit-text-stroke: 0.5vw #a78bfa;
+  text-align: center;
+}
+
+.climate-crisis {
+  font-family: "Climate Crisis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings: "YEAR" 1979;
+}
+
+.squarebody {
+  width: 100vw;
+  height: fit-content;
+  background-color: #0b0b1f;
+}
+
+.text8 {
+  font-size: 3vw;
+  color: #f4f4ff;
+  -webkit-text-stroke: 0.07vw #f4f4ff !important;
+}
+
+.container11 {
+  margin-left: 5vw;
+  margin-top: 10vw;
+  margin-right: 5vw;
+}
+
+.container12 {
+  margin-top: 1vw;
+  margin-bottom: 3.5vw;
+}
+
+.container13 {
+  margin-bottom: 1vw;
+}
+
+.input1 {
+  width: 40vw;
+  height: 3vw;
+  font-size: 2vw;
+  border-radius: 1vw;
+  border: 0vw;
+}
+
+.input2 {
+  width: 15vw;
+  height: 3vw;
+  font-size: 2vw;
+  border-radius: 1vw;
+  border: 0vw;
+}
+
+.top-left-textarea {
+  width: 80vw;
+  height: 15vw;
+  border-radius: 1vw;
+  font-family: Arial, sans-serif;
+  font-size: 2vw;
+  box-sizing: border-box;
+  resize: vertical;
+  direction: ltr;
+  text-align: left;
+  border: 0vw;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1vw;
+}
+
+.custom-checkbox {
+  width: 2vw;
+  height: 2vw;
+  accent-color: #a78bfa;
+  border: 0px;
+  outline: none;
+  -webkit-appearance: box; 
+}
+
+
+
+.anta-regular {
+  font-family: "Anta", sans-serif;
+}
+
+ .btn-effect-1 { 
+     -webkit-text-stroke: 0.07vw #a78bfa !important;
+     border: .3vw solid #a78bfa;
+     font-family: "Anta", sans-serif;
+   background: #f4f4ff; 
+   color: #a78bfa; 
+   box-shadow: 0 0 5px #a78bfa;   
+   border-radius: 4vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 5vw;
+  font-size: 3vw;
+  width: 12vw;
+  margin-bottom: 15vw;
+}
+    .btn-effect-1:hover { 
+      background: #a78bfa; 
+     -webkit-text-stroke: 0.07vw #f4f4ff !important;
+      box-shadow: 0 0 20px #a78bfa, 0 0 40px #a78bfa; 
+}
+
+.footer {
+  background-color: #1c1a3f;
+  padding: 5vw 5vw 8vw 5vw;
+  color: #f4f4ff;
+  font-family: "Anta", sans-serif;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.footer-title {
+  font-size: 4vw;
+  color: #a78bfa;
+  margin-bottom: 1vw;
+}
+
+.footer-text {
+  font-size: 2vw;
+  margin-bottom: 2vw;
+}
+
+.subscription-form {
+  display: flex;
+  flex-direction: row;
+  gap: 1vw;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.subscription-form input[type="email"] {
+  padding: 1vw;
+  border-radius: 0.8vw;
+  border: none;
+  font-size: 1.8vw;
+  width: 50vw;
+  max-width: 60vw;
+  outline: none;
+}
+
+.subscription-form button {
+  padding: 1vw 2vw;
+  border-radius: 0.8vw;
+  border: none;
+  background-color: #a78bfa;
+  color: #0b0b1f;
+  font-weight: bold;
+  font-size: 1.8vw;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.subscription-form button:hover {
+  background-color: #8b65e4;
+}
+
+.footer-links {
+  margin-top: 3vw;
+  font-size: 1.6vw;
+  color: #ded2e6;
+}
+
+.footer-links a {
+  color: #ded2e6;
+  text-decoration: none;
+  margin: 0 1vw;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+  color: #a78bfa;
+}
+
+ .safari-fix {
+      margin-bottom: 12vh;
+  background-color: #1c1a3f;
+}
+</style>
+<script>
+    // Main Application Form Submission
+    document.getElementById("myAppForm").addEventListener("submit", function (e) {
+      e.preventDefault();
+      const checkedPositions = document.querySelectorAll('input[name="position"]:checked');
+      if (checkedPositions.length === 0) {
+        alert("Please select at least one position.");
+        return;
+      }
+
+      const formData = new FormData();
+      formData.append("entry.1656028459", document.getElementById("firstName").value);
+      formData.append("entry.757559261", document.getElementById("lastName").value);
+      formData.append("entry.555197516", document.getElementById("dobDay").value);
+      formData.append("entry.1471151256", document.getElementById("country").value);
+      formData.append("entry.1399458332", document.getElementById("timeZone").value);
+      formData.append("entry.37914180", document.getElementById("emailAddress").value);
+      formData.append("entry.1296045255", document.getElementById("instagramUsername").value);
+      formData.append("entry.339742573", document.getElementById("schoolName").value);
+      formData.append("entry.409934298", document.getElementById("hoursPerWeek").value);
+      formData.append("entry.2089907337", document.getElementById("whyJoin").value);
+      formData.append("entry.872518315", document.getElementById("experience").value);
+      formData.append("entry.238174721", document.getElementById("story").value);
+      formData.append("entry.911900586", document.getElementById("anythingElse").value);
+      formData.append("entry.1317569400", document.getElementById("howDidYouHear").value);
+
+      const positions = [];
+      checkedPositions.forEach(cb => positions.push(cb.value));
+      formData.append("entry.179511687", positions.join(", "));
+
+      fetch("https://docs.google.com/forms/d/e/1FAIpQLSfxEX6hBpP8_rJLwvLoI7aIZWTfe91Ep53qgsuhy_hHAYIeWA/formResponse", {
+        method: "POST",
+        mode: "no-cors",
+        body: formData
+      }).then(() => {
+        alert("Thank you! Your application has been submitted.");
+        document.getElementById("myAppForm").reset();
+      }).catch(err => {
+        console.error("Error submitting form:", err);
+        alert("Oops! There was a problem submitting your application.");
+      });
+    });
+
+    // Newsletter Subscription Form
+    document.getElementById("Subscribe").addEventListener("submit", function (e) {
+      e.preventDefault();
+
+      const formData = new FormData();
+      formData.append("entry.403638997", document.getElementById("Email").value);
+
+      fetch("https://docs.google.com/forms/u/0/d/e/1FAIpQLSd6AN7VBOnW8uzXFUBabpRvp42n3ALr_EWJsuKW8qnfcF7S9w/formResponse", {
+        method: "POST",
+        mode: "no-cors",
+        body: formData
+      }).then(() => {
+        alert("Thank you for subscribing!");
+        document.getElementById("Subscribe").reset();
+      }).catch(err => {
+        console.error("Error submitting subscription:", err);
+        alert("Oops! Something went wrong. Please try again.");
+      });
+    });
+
+    // Safari Fix
+    const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+    if (isSafari) {
+      document.getElementById('main-content').classList.add('safari-fix');
+    }
+</script>
